@@ -4,6 +4,7 @@ Bundle-Name: Logic
 Bundle-SymbolicName: cz.martinbayer.analyser.logic
 Bundle-Version: 1.0.0.qualifier
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
-Require-Bundle: cz.martinbayer.externalLibs;bundle-version="1.0.0"
+Require-Bundle: cz.martinbayer.externalLibs;bundle-version="1.0.0",
+ cz.martinbayer.analyser
 Export-Package: cz.martinbayer.analyser.logic.model,
  cz.martinbayer.analyser.logic.processor
